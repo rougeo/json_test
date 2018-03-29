@@ -1,0 +1,11 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Boubacar Diallo"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
